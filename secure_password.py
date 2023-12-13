@@ -1,3 +1,4 @@
+### This is a simple program to procedurally create 16-character randomized passwords.
 import random
 
 # Fuction to shuffle characters in password string
